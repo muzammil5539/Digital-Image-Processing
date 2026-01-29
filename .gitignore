@@ -45,3 +45,12 @@ env/
 tmp/
 temp/
 *.tmp
+
+# Duplicate files from main branch (organized versions exist in data/images/ and src/labs/)
+/*.tif
+/*.png
+/*.jpg
+/*.bmp
+/*.csv
+/lab*.py
+/test.py
