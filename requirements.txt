@@ -1,0 +1,13 @@
+# Digital Image Processing Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core libraries
+opencv-python>=4.5.0
+numpy>=1.19.0
+matplotlib>=3.3.0
+scikit-image>=0.18.0
+pandas>=1.2.0
+
+# Optional dependencies for advanced features
+scipy>=1.6.0
+pillow>=8.0.0
