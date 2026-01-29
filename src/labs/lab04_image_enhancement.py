@@ -1,4 +1,18 @@
-# lab 04: Image Enhancement
+"""
+Lab 04: Image Enhancement Techniques
+
+This lab demonstrates various image enhancement methods in the spatial domain:
+- Negative transformation
+- Logarithmic transformation
+- Power-law (gamma) transformation
+- Gray-level slicing
+- Histogram computation
+
+Author: Digital Image Processing Course
+Dependencies: opencv-python, numpy, matplotlib
+Image Path: Update to 'data/images/Fig0241(a)(einstein low contrast).tif'
+"""
+
 import cv2 as cv
 import numpy as np
 
